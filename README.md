@@ -1,2 +1,2 @@
 # MC
-This is the source code of 'Alterferroicity with seesaw-type magnetoelectricity'.
+This is the random-field pseudo-dipole model in 'Alterferroicity with seesaw-type magnetoelectricity'.
